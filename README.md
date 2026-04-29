@@ -1,2 +1,4 @@
 # gent-framework
-A filesystem-native semantic framework using recursive manifests (matter.gent) to define domains, metadata, and deterministic agent behavior across directory structures.
+Gent Framework — A semantic layer for the filesystem.  
+Define domains. Inherit structure. Enable agents. Keep it human-readable.
+
